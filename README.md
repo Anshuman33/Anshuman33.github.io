@@ -1,2 +1,2 @@
-## Hi! Welcome to my github page.
-### Anshuman Gupta
+# Anshuman Gupta
+Hi! Welcome to my GitHub page.
